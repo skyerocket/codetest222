@@ -1,1 +1,8 @@
 node_modules
+.vscode
+.dockerignore
+.gitignore
+.prettierignore
+.prettierrc
+CHANGELOG.md
+
